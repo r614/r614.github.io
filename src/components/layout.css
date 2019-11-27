@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -7,7 +8,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
+
 }
 article,
 aside,
@@ -266,7 +267,7 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: white;
-  font-family: Helvetica Neue;
+  font-family: Helvetica Neue, Roboto, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2rem;
@@ -275,7 +276,7 @@ h3 {
 h3.num{
   font-size: 1rem;
   color: #F988FD;
-  font-family: Helvetica Neue;
+  font-family: Helvetica Neue, Roboto, sans-serif;
 
 
 }
@@ -291,7 +292,7 @@ h4 {
   padding-top: 0;
   margin-bottom: 0rem;
   color: #F988FD;
-  font-family: Helvetica Neue;
+  font-family: Helvetica Neue, Roboto, sans-serif;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
@@ -357,7 +358,7 @@ ul {
 }
 
 li p{
-  font-family: Helvetica Neue;
+  font-family: Helvetica Neue, Roboto, sans-serif;
   margin-left: 0;
   color: #E1A5E3;
 }
@@ -414,7 +415,7 @@ p {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: #997A9A;
-  font-family: Helvetica Neue;
+  font-family: Helvetica Neue, Roboto, sans-serif;
   font-size: 1rem;
 
 
